@@ -1,0 +1,3 @@
+default
+charcoal
+charcoal_diamonds
