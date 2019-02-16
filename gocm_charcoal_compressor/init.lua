@@ -1,4 +1,4 @@
-minetest.register_node("charcoal_compressor:compressor", {
+minetest.register_node("gocm_charcoal_compressor:compressor", {
 description = "A Compressor",
 tiles = { 
 	"tgg_compressor_all_sides.png", "tgg_compressor_all_sides.png",
