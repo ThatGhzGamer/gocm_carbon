@@ -1,3 +1,3 @@
-A mod adding various charcoal related items such as, a Compressor New Gear, New Diamonds, Charcoal and Willow Charcoal and much more
+A mod adding various charcoal related items such as, Charcoal and Willow Charcoal, New Gear, New Diamonds, Blocks and much more
 -all code is release under LGPL compatible MIT License
 -depends on default
