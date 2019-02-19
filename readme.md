@@ -10,7 +10,7 @@ mods folder, then rename mod folder to "gocm_charcoal" without quotes
 
 (still learning linux please comment if this is wrong)
 Ubuntu: download mod, unzip, copy unzipped files to your 
-"/home/[yournamehere]/.minetest/mods" folder, then rename mod folder to "gocm_charcoal" without quotes 
+"[yourname]/home/.minetest/mods" folder, then rename mod folder to "gocm_charcoal" without quotes 
 
 
 
