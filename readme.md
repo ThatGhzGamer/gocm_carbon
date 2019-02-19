@@ -6,11 +6,10 @@ this mod is and it's textures are released under the MIT license
 
 Installation:
 Windows: download mod, unzip, copy unzipped files to your minetest-4.x or (5.x)-win32 or win64 install
-mods folder, then rename mod folder to "gocm_charcoal" without quotes 
-
+mods folder.
 (still learning linux please comment if this is wrong)
 Ubuntu: download mod, unzip, copy unzipped files to your 
-"[yourname]/home/.minetest/mods" folder, then rename mod folder to "gocm_charcoal" without quotes 
+"[yourname]/home/.minetest/mods" folder.
 
 
 
